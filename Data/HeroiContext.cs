@@ -22,7 +22,7 @@ namespace EFCoreWebApi.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=HeroApp;Data Source=desktop-ouvkjrn\\sqlexpress");
+            optionsBuilder.UseSqlServer("sua string connection");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
