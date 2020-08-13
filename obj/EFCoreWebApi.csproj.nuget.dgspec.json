@@ -4,6 +4,152 @@
     "D:\\Estudos\\CursoVinciusUdemy\\EFCoreWebApi\\EFCoreWebApi.csproj": {}
   },
   "projects": {
+    "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj",
+        "projectName": "EFcore.Domain",
+        "projectPath": "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj",
+        "packagesPath": "C:\\Users\\IsacA\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IsacA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudos\\CursoVinciusUdemy\\EFCore.Repo\\EFCore.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudos\\CursoVinciusUdemy\\EFCore.Repo\\EFCore.Repo.csproj",
+        "projectName": "EFCore.Repo",
+        "projectPath": "D:\\Estudos\\CursoVinciusUdemy\\EFCore.Repo\\EFCore.Repo.csproj",
+        "packagesPath": "C:\\Users\\IsacA\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudos\\CursoVinciusUdemy\\EFCore.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IsacA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj": {
+                "projectPath": "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Estudos\\CursoVinciusUdemy\\EFCoreWebApi\\EFCoreWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,7 +172,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj": {
+                "projectPath": "D:\\Estudos\\CursoVinciusUdemy\\EFcore.Domain\\EFcore.Domain.csproj"
+              },
+              "D:\\Estudos\\CursoVinciusUdemy\\EFCore.Repo\\EFCore.Repo.csproj": {
+                "projectPath": "D:\\Estudos\\CursoVinciusUdemy\\EFCore.Repo\\EFCore.Repo.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -38,6 +191,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.7, )"

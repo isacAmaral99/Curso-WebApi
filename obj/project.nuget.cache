@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nt9CXsX74IIVyU9B7jLsHU1mtaUpww1f0SORlYhOjkWZqfTYjjq+2ZV/j0wB2rREg1wzP5wYz1Y1HFidmw3B8A==",
+  "dgSpecHash": "NR+0trZ13N+Ywy64szEJoYGMDTCZ7B02cLJE2U03f+SvkmhZr4KLjvnZuujh4wE1BlNsis1gJp275tuO3KWDOQ==",
   "success": true,
   "projectFilePath": "D:\\Estudos\\CursoVinciusUdemy\\EFCoreWebApi\\EFCoreWebApi.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,9 @@
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.7\\microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.7\\microsoft.entityframeworkcore.design.3.1.7.nupkg.sha512",
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.7\\microsoft.entityframeworkcore.relational.3.1.7.nupkg.sha512",
+    "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.6\\microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.7\\microsoft.entityframeworkcore.sqlserver.3.1.7.nupkg.sha512",
+    "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver.design\\1.1.6\\microsoft.entityframeworkcore.sqlserver.design.1.1.6.nupkg.sha512",
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.7\\microsoft.entityframeworkcore.tools.3.1.7.nupkg.sha512",
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.7\\microsoft.extensions.caching.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\IsacA\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.7\\microsoft.extensions.caching.memory.3.1.7.nupkg.sha512",

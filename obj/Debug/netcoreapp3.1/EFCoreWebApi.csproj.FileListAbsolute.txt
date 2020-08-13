@@ -2,7 +2,6 @@ D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\appsettings.De
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFCoreWebApi.exe
-D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.csprojAssemblyReference.cache
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.AssemblyInfoInputs.cache
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.AssemblyInfo.cs
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.RazorTargetAssemblyInfo.cache
@@ -54,8 +53,15 @@ D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFCoreWebApi.r
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFCoreWebApi.dll
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFCoreWebApi.pdb
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.csproj.CoreCompileInputs.cache
-D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.dll
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.pdb
 D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.genruntimeconfig.cache
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFcore.Domain.dll
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFCore.Repo.dll
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFcore.Domain.pdb
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\EFCore.Repo.pdb
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.csprojAssemblyReference.cache
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.csproj.CoreCompileInputs.cache
+D:\Estudos\CursoVinciusUdemy\EFCoreWebApi\obj\Debug\netcoreapp3.1\EFCoreWebApi.MvcApplicationPartsAssemblyInfo.cache
